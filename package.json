@@ -1,0 +1,25 @@
+{
+  "name": "employee-database-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anisha-C/Employee-Database-App.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Anisha-C/Employee-Database-App/issues"
+  },
+  "homepage": "https://github.com/Anisha-C/Employee-Database-App#readme",
+  "dependencies": {
+    "inquirer": "^8.0.0"
+  }
+}
