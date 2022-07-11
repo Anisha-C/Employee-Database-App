@@ -9,6 +9,7 @@ This application is to be used to input employee information in to a database li
 * Javascript
 * JQuery
 * Node
+* Jest
 
 
 ## Contribution
