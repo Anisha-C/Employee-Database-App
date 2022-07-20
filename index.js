@@ -6,7 +6,7 @@ const employees = []
 const fs = require("fs")
 
 function start() {
-    console.log("Welcome message")
+    console.log("Welcome to the Database")
     inquirer.prompt([
         {
             type: "input",
